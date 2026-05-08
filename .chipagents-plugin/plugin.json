@@ -1,0 +1,13 @@
+{
+  "name": "alphadesign",
+  "version": "1.0.0",
+  "description": "AlphaDesign internal chipagents plugin: release workflow, Linear MCP, team conventions, and PR review.",
+  "author": {
+    "name": "AlphaDesign",
+    "email": "davidwang@alphadesign.ai"
+  },
+  "skills": "./skills",
+  "commands": "./commands",
+  "agents": "./agents",
+  "mcpServers": "./mcp.json"
+}
