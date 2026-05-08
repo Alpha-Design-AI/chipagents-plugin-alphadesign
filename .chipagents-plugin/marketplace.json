@@ -1,0 +1,20 @@
+{
+  "name": "alphadesign",
+  "owner": {
+    "name": "AlphaDesign",
+    "email": "davidwang@alphadesign.ai"
+  },
+  "description": "AlphaDesign internal chipagents plugins",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "alphadesign",
+      "source": {
+        "source": "github",
+        "repo": "Alpha-Design-AI/chipagents-plugin-alphadesign"
+      },
+      "description": "AlphaDesign internal chipagents plugin: release workflow, Linear MCP, team conventions, and PR review.",
+      "version": "1.0.0"
+    }
+  ]
+}
